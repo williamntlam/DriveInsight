@@ -4,6 +4,10 @@
 
 DriveInsight is a cutting-edge system designed to enhance road safety by utilizing **AI**, **Computer Vision**, and **gyroscope data**. It offers meaningful insights and feedback on driving behavior, promoting better driving habits and safer roads.
 
+
+**Devpost Link (For More Information/Screenshots):**  
+[https://devpost.com/software/idk-1xupmo](https://devpost.com/software/idk-1xupmo)
+
 ## **Inspiration**
 
 Road safety has become an escalating concern in recent years. According to Transport Canada, the number of collisions and casualties has been rising in the past three years. As **AI technology** grows exponentially, we identified a niche to leverage powerful AI to offer valuable advice and feedback to drivers of all levels, effectively promoting road safety.
